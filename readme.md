@@ -1,9 +1,9 @@
 👋 Hello, I'm Ruben Valdez!
 
-💼 About Me
+## 💼 About Me
 I’m a passionate Full Stack Development with a love for web applications, teaching, and science. I thrive on solving complex problems and am always eager to learn new technologies and methodologies.
 
-🚀 Skills
+## 🚀 Skills
 
 Languages: Python, JavaScript, TypeScript
 
@@ -26,13 +26,13 @@ Another brief description of a different project.
 How I Built X – A detailed post about how you created something interesting.
 Understanding Y – An insightful post about a topic you're passionate about. -->
 
-📫 Contact Me
+## 📫 Contact Me
 
 Email: ruben.valdez7@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/ruben-valdez-b223b825/
 
-🎨 Fun Facts
+## 🎨 Fun Facts
 
 I’m a fan of Astromomy and Martial Arts.
 
